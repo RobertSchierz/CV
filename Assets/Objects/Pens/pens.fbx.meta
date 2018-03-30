@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 842c64c28faea6e44823aa0a0c345594
+timeCreated: 1521229026
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Pen
+    100002: Pen_2
+    100004: Pen_3
+    100006: Pen_4
+    100008: Pen_5
+    100010: Pen_6
+    100012: Pen_7
+    100014: Pen_8
+    100016: //RootNode
+    100018: Plastik
+    400000: Pen
+    400002: Pen_2
+    400004: Pen_3
+    400006: Pen_4
+    400008: Pen_5
+    400010: Pen_6
+    400012: Pen_7
+    400014: Pen_8
+    400016: //RootNode
+    400018: Plastik
+    2100000: Pen
+    2300000: Pen
+    2300002: Pen_2
+    2300004: Pen_3
+    2300006: Pen_4
+    2300008: Pen_5
+    2300010: Pen_6
+    2300012: Pen_7
+    2300014: Pen_8
+    2300016: Plastik
+    3300000: Pen
+    3300002: Pen_2
+    3300004: Pen_3
+    3300006: Pen_4
+    3300008: Pen_5
+    3300010: Pen_6
+    3300012: Pen_7
+    3300014: Pen_8
+    3300016: Plastik
+    4300000: Plastik
+    4300002: Pen
+    4300004: Pen_2
+    4300006: Pen_3
+    4300008: Pen_4
+    4300010: Pen_5
+    4300012: Pen_6
+    4300014: Pen_7
+    4300016: Pen_8
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pen
+    second: {fileID: 2100000, guid: 6a05317e17d1af44aa6082656a25f0e6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
